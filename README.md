@@ -41,6 +41,10 @@ https://core-api-uat.dezrez.com/swagger/ui/index
 And for LIVE:
 https://api.dezrez.com/swagger/ui/index
 
+##White Papers
+We demonstrate some of the advantages of having an API through a series of white papers, available here:
+https://github.com/dezrez/DezrezCoreAPI/blob/master/WhitePapers.md
+
 ##Learning resources
 To help you understand how to use our API, we have compiled several resources that aim to bring you up to speed on what you need to know, quickly.
 
