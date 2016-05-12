@@ -54,4 +54,8 @@ To help you understand how to use our API, we have compiled several resources th
 ###Dezrez Core API Overview (also covers authentication)
 [Dezrez Core API Overview](https://dezrezservices-my.sharepoint.com/personal/matthew_dendle_dezrez_com/_layouts/15/guestaccess.aspx?guestaccesstoken=lwhdlgb3j7Y91GmaXpXjrX6cSn5iLZfzrPPtrReNinA%3d&docid=06036c1316bb14d5a8b4c4e6012d1889f)
 
+###Authenticating third parties against people in dezrez###
+Please see this brief overview:
+
+
 
