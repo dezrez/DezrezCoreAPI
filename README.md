@@ -57,5 +57,5 @@ To help you understand how to use our API, we have compiled several resources th
 ###Authenticating third parties against people in dezrez###
 Please see this brief overview:
 
-https://github.com/dezrez/DezrezCoreAPI/blob/master/AuthenticatingThePublic.md
+[Authenticating estate agent customers](https://github.com/dezrez/DezrezCoreAPI/blob/master/AuthenticatingThePublic.md)
 
