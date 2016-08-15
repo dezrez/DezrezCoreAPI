@@ -17,7 +17,7 @@ Send an email to developer.registration@dezrez.com requesting that your client b
 ####Tell us what type of app it is
 Web App? Native mobile app? Back end server app?
 
-This will dictate which ‘OAuth2 Flow’ to use – implicit or code being the main choices
+This will dictate which ‘OAuth2 Flow’ to use – implicit, code or client being the main choices
 
 ####What access rights will your app need? 
 We can help answer this question, but what we need to know is what types of things in the API will you interact with, and how you will interact with them.  E.g. Update properties, read people data, book appointments etc.
