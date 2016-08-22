@@ -7,7 +7,7 @@ The Dezrez Core API is the backbone to all of our latest product offerings, and 
 
 It is based on JSON, and is secured using OAuth2.
 
-##Registering your API client
+##Getting access to the Dezrez Core API - Registering your application
 In order to use the Dezrez core API, you need to first register with us so that you can have access codes sent to you.
 
 Send an email to developer.registration@dezrez.com requesting that your client be registered for access, and tell us a bit about it.
