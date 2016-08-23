@@ -7,6 +7,15 @@ The Dezrez Core API is the backbone to all of our latest product offerings, and 
 
 It is based on JSON, and is secured using OAuth2.
 
+##What can I do with it?
+People use our API primarily to deliver apps that deliver some value for Estate Agents, thier customers, or partners.
+
+For example - many people use the API to deliver the very best online experiences for Vendors - allowing them to run thier own marketing, manage thier own viewings and even negotiate thier own sales.
+
+We also have a basic integration option for websites, where we can supply a simple search function for getting Estate Agents properties on thier website.
+
+If you want to get started, you just need to register your application with us, as below.
+
 ##Getting access to the Dezrez Core API - Registering your application
 In order to use the Dezrez core API, you need to first register with us so that you can have access codes sent to you.
 
