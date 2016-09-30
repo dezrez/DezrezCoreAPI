@@ -53,6 +53,8 @@ https://core-api-uat.dezrez.com/swagger/ui/index
 And for LIVE:
 https://api.dezrez.com/swagger/ui/index
 
+NOTE: All Email and SMS communications instigated from the UAT environment are routed through to Dezrez internally for security reasons. Should this need to be changed for testing purposes, please submit a request through this GitHub site.
+
 ##White Papers
 We demonstrate some of the advantages of having an API through a series of white papers, available here:
 [Dezrez Core API white papers](https://github.com/dezrez/DezrezCoreAPI/blob/master/WhitePapers.md)
