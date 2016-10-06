@@ -31,6 +31,8 @@ This will dictate which ‘OAuth2 Flow’ to use – implicit, code or client be
 If dezrez users will log into your app/system, its going to be 'Code' or 'Implicit'.
 If you want to have your back-end servers talking to our API, its most likely 'Client' that you'll need.
 
+If you are using a Web App, you have to make sure you do not leak the security token to the end user, as this could pose a security risk.
+
 ####What access rights will your app need? 
 We can help answer this question, but what we need to know is what types of things in the API will you interact with, and how you will interact with them.  E.g. Update properties, read people data, book appointments etc.
 
