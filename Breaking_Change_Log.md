@@ -1,7 +1,7 @@
 <a name="2016-10-19"></a>
 #Release Date: 2016-10-19
 
-###Why are these changes being made?
+###Change Summary
 Team based security is being introduced into the DezrezCore to provide branch managers with greater controls around data security.
 
 ###What are the changes?
