@@ -16,7 +16,7 @@ Every Team owned data contract returned from the DezrezCore API will now contain
 When a member of a team requests data to which is does not have access, the above 5 properties will be all that is returned inside the resulting Data Contract. This information can be used to identify the Owning Team for occassions where access to the required data need to be requested.
 
 ###Will you be affected?
-All developers will see the additional propertties included in the returned data contracts, however the ability to control access at a team level is a feature that will be enabled for each Agency by request. Only when an Agency who is a client of yours enables this feature will the above data contract restrictions be enforced.
+All developers will see the additional properties included in the returned data contracts, however the ability to control access at a team level is a feature that will be enabled for each Agency by request. Only when an Agency who is a client of yours enables this feature will the above data contract restrictions be enforced.
 
 
 
