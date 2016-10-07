@@ -1,8 +1,10 @@
 <a name="2016-10-19"></a>
 #Release Date: 2016-10-19
 
-###Change Summary
-Team based security is being introduced into the DezrezCore to provide branch managers with greater controls around data security.
+##Team Level Security
+
+###Summary
+An additional level of configuration is being introduced into the DezrezCore to provide branch managers with greater controls around data security.
 
 ###What are the changes?
 Every Team owned data contract returned from the DezrezCore API will now contain the below additional information outlining some security details: 
