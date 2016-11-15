@@ -40,6 +40,9 @@ We demonstrate some of the advantages of having an API through a series of white
 ##Learning resources
 To help you understand how to use our API, we have compiled several resources that aim to bring you up to speed on what you need to know, quickly.
 
+###An example request to the API
+[Create a Group](https://github.com/dezrez/DezrezCoreAPI/blob/master/ExampleRequest.md)  
+
 ###The Dezrez Core Platform Domain Model
 [Dezrez Core Platform Domain Model](https://dezrezservices-my.sharepoint.com/personal/matthew_dendle_dezrez_com/_layouts/15/guestaccess.aspx?guestaccesstoken=wG26X6xJQpVALwVHGuzxMIvEDcpVUB%2fnOenxMxBrCxY%3d&docid=03c2d6f52b51747f4b7bd2562de2f2cec)
 
