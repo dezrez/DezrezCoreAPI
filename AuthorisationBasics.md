@@ -4,7 +4,9 @@ One of the first problems that developers face is using OAuth2 with thier applic
 
 There are many different types of application; some with no UI (back end server apps), some that power a website (vendor login area etc.) and some that dezrez users log into directly (Mobile apps).  Depending on which application you are writing, upon registration you'll be set up with a different OAuth2 flow.
 
-Here are the OAuth 2 flows that we support, and who uses them:
+Flows are an OAuth2 concept, they are descriptions of the interactions between a client, a user and an authorization server to request access tokens.
+
+Here are the OAuth 2 flows that we support, and who thier uses:
 End users, with a UI "User OAuth2 Flows":
 * Code
 * Implicit
