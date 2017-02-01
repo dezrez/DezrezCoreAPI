@@ -17,4 +17,5 @@ Back end servers, web servers, with no users logging in "Userless OAuth2 Flows"
 * Assertion
 
 ##User and Userless OAuth2 flows
-There is an important distinction between these types of flow.
+There is an important distinction between these types of flow.  If you are using a "User OAuth2 Flow" to get your access token, when you call the API, you wont need to use an AgencyID url parameter - as we already know the agency that the user belongs to.
+
