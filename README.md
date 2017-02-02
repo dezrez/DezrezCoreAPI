@@ -21,7 +21,7 @@ To help you understand how to use our API, we have compiled several resources th
 ###Before you call our API
 [Authentication and Authorisation Basics - PLEASE READ](https://github.com/dezrez/DezrezCoreAPI/blob/master/AuthorisationBasics.md)
 
-##API Environments
+###API Environments
 We have two environments for use by third parties - the first is the UAT environment, where clients are tested.  Then, there is our LIVE production environment.
 
 Both of these environments have Swagger documents available, as well as having Swagger UI available.
@@ -35,7 +35,7 @@ https://api.dezrez.com/swagger/ui/index
 
 NOTE: All Email and SMS communications instigated from the UAT environment are routed through to Dezrez internally for security reasons. Should this need to be changed for testing purposes, please submit a request through this GitHub site.
 
-##Getting access to the Dezrez Core API - Registering your application
+###Getting access to the Dezrez Core API - Registering your application
 Please register by following this [guide](https://github.com/dezrez/DezrezCoreAPI/blob/master/HowToRegister.md#how-to-register-to-use-the-dezrez-core-api "Registering your application").
 
 ###An example request to the API
@@ -48,6 +48,9 @@ Please register by following this [guide](https://github.com/dezrez/DezrezCoreAP
 [Dezrez Core API Overview](https://dezrezservices-my.sharepoint.com/personal/matthew_dendle_dezrez_com/_layouts/15/guestaccess.aspx?guestaccesstoken=lwhdlgb3j7Y91GmaXpXjrX6cSn5iLZfzrPPtrReNinA%3d&docid=06036c1316bb14d5a8b4c4e6012d1889f)
 
 ##Further Reading
+To cover more advanced topics, please read these articles and white papers.
+
+Also, feel free to check out our starter kits for web applications that call the Dezrez Core API.  They may be helpful if you plan to write an app for our API.  These starter kits are available as public repositories under our [Dezrez Organisation Page](https://github.com/dezrez)
 
 ###White Papers
 We demonstrate some of the advantages of having an API through a series of white papers, available here:
