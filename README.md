@@ -19,6 +19,13 @@ If you want to get started, you just need to register your application with us, 
 ##Getting access to the Dezrez Core API - Registering your application
 
 Please register by following this [guide](https://github.com/dezrez/DezrezCoreAPI/blob/master/HowToRegister.md#how-to-register-to-use-the-dezrez-core-api "Registering your application").
+
+##Learning resources
+To help you understand how to use our API, we have compiled several resources that aim to bring you up to speed on what you need to know, quickly.
+
+###Before you call our API
+[Authentication and Authorisation Basics - PLEASE READ](https://github.com/dezrez/DezrezCoreAPI/blob/master/AuthorisationBasics.md)
+
 ##API Environments
 We have two environments for use by third parties - the first is the UAT environment, where clients are tested.  Then, there is our LIVE production environment.
 
@@ -32,13 +39,6 @@ And for LIVE:
 https://api.dezrez.com/swagger/ui/index
 
 NOTE: All Email and SMS communications instigated from the UAT environment are routed through to Dezrez internally for security reasons. Should this need to be changed for testing purposes, please submit a request through this GitHub site.
-
-
-##Learning resources
-To help you understand how to use our API, we have compiled several resources that aim to bring you up to speed on what you need to know, quickly.
-
-###Before you call our API
-[Authentication and Authorisation Basics - PLEASE READ](https://github.com/dezrez/DezrezCoreAPI/blob/master/AuthorisationBasics.md)
 
 ###An example request to the API
 [Create a Group](https://github.com/dezrez/DezrezCoreAPI/blob/master/ExampleRequest.md)  
