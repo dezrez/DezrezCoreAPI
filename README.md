@@ -15,11 +15,6 @@ For example - many people use the API to deliver the very best online experience
 We also have a basic integration option for websites, where we can supply a simple search function for getting Estate Agents properties on thier website.
 
 If you want to get started, you just need to register your application with us, as below.
-
-##Getting access to the Dezrez Core API - Registering your application
-
-Please register by following this [guide](https://github.com/dezrez/DezrezCoreAPI/blob/master/HowToRegister.md#how-to-register-to-use-the-dezrez-core-api "Registering your application").
-
 ##Learning resources
 To help you understand how to use our API, we have compiled several resources that aim to bring you up to speed on what you need to know, quickly.
 
@@ -39,6 +34,9 @@ And for LIVE:
 https://api.dezrez.com/swagger/ui/index
 
 NOTE: All Email and SMS communications instigated from the UAT environment are routed through to Dezrez internally for security reasons. Should this need to be changed for testing purposes, please submit a request through this GitHub site.
+
+##Getting access to the Dezrez Core API - Registering your application
+Please register by following this [guide](https://github.com/dezrez/DezrezCoreAPI/blob/master/HowToRegister.md#how-to-register-to-use-the-dezrez-core-api "Registering your application").
 
 ###An example request to the API
 [Create a Group](https://github.com/dezrez/DezrezCoreAPI/blob/master/ExampleRequest.md)  
