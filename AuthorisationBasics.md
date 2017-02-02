@@ -19,3 +19,8 @@ Back end servers, web servers, with no users logging in "Userless OAuth2 Flows"
 ##User and Userless OAuth2 flows
 There is an important distinction between these types of flow.  If you are using a "User OAuth2 Flow" to get your access token, when you call the API, you wont need to use an AgencyID url parameter - as we already know the agency that the user belongs to.
 
+However, if your application uses one of the "Userless OAuth2 Flows", then you will need tell us which agencyId you are intending to call, by using the AgencyId parameter.
+
+##Supplying branch context
+In "User OAuth2 Flows", the users default branch is already known to us, as we just use the users home branch.  However, this is just a default setting; A user can perform actions in any branch - so if you need to change the branch that an action is performed under, just ad a BranchId URL parameter, with the ID of the branch you'd like to perform the action in.
+
