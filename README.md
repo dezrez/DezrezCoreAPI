@@ -33,12 +33,12 @@ https://api.dezrez.com/swagger/ui/index
 
 NOTE: All Email and SMS communications instigated from the UAT environment are routed through to Dezrez internally for security reasons. Should this need to be changed for testing purposes, please submit a request through this GitHub site.
 
-##White Papers
-We demonstrate some of the advantages of having an API through a series of white papers, available here:
-[Dezrez Core API white papers](https://github.com/dezrez/DezrezCoreAPI/blob/master/WhitePapers.md)
 
 ##Learning resources
 To help you understand how to use our API, we have compiled several resources that aim to bring you up to speed on what you need to know, quickly.
+
+###Before you call our API
+[Authentication and Authorisation Basics - PLEASE READ](https://github.com/dezrez/DezrezCoreAPI/blob/master/AuthorisationBasics.md)
 
 ###An example request to the API
 [Create a Group](https://github.com/dezrez/DezrezCoreAPI/blob/master/ExampleRequest.md)  
@@ -49,7 +49,13 @@ To help you understand how to use our API, we have compiled several resources th
 ###Dezrez Core API Overview (also covers authentication)
 [Dezrez Core API Overview](https://dezrezservices-my.sharepoint.com/personal/matthew_dendle_dezrez_com/_layouts/15/guestaccess.aspx?guestaccesstoken=lwhdlgb3j7Y91GmaXpXjrX6cSn5iLZfzrPPtrReNinA%3d&docid=06036c1316bb14d5a8b4c4e6012d1889f)
 
-###Authenticating third parties against people in dezrez###
+##Further Reading
+
+###White Papers
+We demonstrate some of the advantages of having an API through a series of white papers, available here:
+[Dezrez Core API white papers](https://github.com/dezrez/DezrezCoreAPI/blob/master/WhitePapers.md)
+
+###Authenticating third parties against people in dezrez
 Please see this brief overview:
 
 [Authenticating estate agent customers](https://github.com/dezrez/DezrezCoreAPI/blob/master/AuthenticatingThePublic.md)
