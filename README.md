@@ -39,13 +39,7 @@ NOTE: All Email and SMS communications instigated from the UAT environment are r
 Please register by following this [guide](https://github.com/dezrez/DezrezCoreAPI/blob/master/HowToRegister.md#how-to-register-to-use-the-dezrez-core-api "Registering your application").
 
 ###An example request to the API
-[Create a Group](https://github.com/dezrez/DezrezCoreAPI/blob/master/ExampleRequest.md)  
-
-###The Dezrez Core Platform Domain Model
-[Dezrez Core Platform Domain Model](https://dezrezservices-my.sharepoint.com/personal/matthew_dendle_dezrez_com/_layouts/15/guestaccess.aspx?guestaccesstoken=wG26X6xJQpVALwVHGuzxMIvEDcpVUB%2fnOenxMxBrCxY%3d&docid=03c2d6f52b51747f4b7bd2562de2f2cec)
-
-###Dezrez Core API Overview (also covers authentication)
-[Dezrez Core API Overview](https://dezrezservices-my.sharepoint.com/personal/matthew_dendle_dezrez_com/_layouts/15/guestaccess.aspx?guestaccesstoken=lwhdlgb3j7Y91GmaXpXjrX6cSn5iLZfzrPPtrReNinA%3d&docid=06036c1316bb14d5a8b4c4e6012d1889f)
+[Create a Group](https://github.com/dezrez/DezrezCoreAPI/blob/master/ExampleRequest.md) 
 
 ##Further Reading
 To cover more advanced topics, please read these articles and white papers.
