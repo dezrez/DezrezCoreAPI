@@ -4,6 +4,12 @@ One of the first problems that developers face is using OAuth2 with thier applic
 [Dezrez Core API Overview](https://dezrezservices-my.sharepoint.com/personal/matthew_dendle_dezrez_com/_layouts/15/guestaccess.aspx?guestaccesstoken=lwhdlgb3j7Y91GmaXpXjrX6cSn5iLZfzrPPtrReNinA%3d&docid=06036c1316bb14d5a8b4c4e6012d1889f)
 
 ##Once you've got your access token
+###Protect it!
+The access tokens you obtain should never be exposed to the public.  ESPECIALLY if your token is a back end token.  The reason being that if anyone were to intercept it, they would have full access to the agency's data via the API.
+
+*KEEP THE ACCESS TOKEN SAFE*
+
+###Understanding the different types of "OAuth2 Flow"
 There are many different types of application; some with no UI (back end server apps), some that power a website (vendor login area etc.) and some that dezrez users log into directly (Mobile apps).  Depending on which application you are writing, upon registration you'll be set up with a different OAuth2 flow.
 
 Flows are an OAuth2 concept, they are descriptions of the interactions between a client, a user and an authorization server to request access tokens.
