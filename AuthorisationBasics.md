@@ -7,7 +7,14 @@ One of the first problems that developers face is using OAuth2 with thier applic
 ###Protect it!
 The access tokens you obtain should never be exposed to the public.  ESPECIALLY if your token is a back end token.  The reason being that if anyone were to intercept it, they would have full access to the agency's data via the API.
 
+An example of bad token security:
+A web development company wants to call the API directly from the client, using a single page app.  The web application itself calls the token endpoints to get a new token.  As the website is public, anyone can use the web app.  A hacker uses the web app, checks the network traces using debugging tools, and grabs the access token.
+The hacker then proceeds to call the API directly, deleting applicants, property data and documents!
+Please don't let this be ypu!
+
 *KEEP THE ACCESS TOKEN SAFE*
+
+If you are in any doubt as to the security of your application, please get in touch and we can discuss this with you.
 
 ###Understanding the different types of "OAuth2 Flow"
 There are many different types of application; some with no UI (back end server apps), some that power a website (vendor login area etc.) and some that dezrez users log into directly (Mobile apps).  Depending on which application you are writing, upon registration you'll be set up with a different OAuth2 flow.
