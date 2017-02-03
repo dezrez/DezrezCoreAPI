@@ -10,7 +10,7 @@ The access tokens you obtain should never be exposed to the public.  ESPECIALLY 
 An example of bad token security:
 A web development company wants to call the API directly from the client, using a single page app.  The web application itself calls the token endpoints to get a new token.  As the website is public, anyone can use the web app.  A hacker uses the web app, checks the network traces using debugging tools, and grabs the access token.
 The hacker then proceeds to call the API directly, deleting applicants, property data and documents!
-Please don't let this be ypu!
+Please don't let this be you!
 
 *KEEP THE ACCESS TOKEN SAFE*
 
