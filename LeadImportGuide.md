@@ -13,11 +13,11 @@ For further information about the registration process, please see [How To Regis
 * TEST: https://core-api-uat.dezrez.com/api/inboundlead/create
 
 ##What types of lead requests can we submit?
-Viewing -	"RequestType": {"SystemName": "Viewing"}  
-Valuation - "RequestType": {"SystemName": "Valuation"}
-Phone Call Back - "RequestType": {"SystemName": "PhoneCall"} 
-Brochure Request - "RequestType": {"SystemName": "BrochureRequest"} 
-General	"RequestType": {"SystemName": "General"}
+* Viewing -	"RequestType": {"SystemName": "Viewing"}  
+* Valuation - "RequestType": {"SystemName": "Valuation"}
+* Phone Call Back - "RequestType": {"SystemName": "PhoneCall"} 
+* Brochure Request - "RequestType": {"SystemName": "BrochureRequest"} 
+* General	"RequestType": {"SystemName": "General"}
 
 ##What does a sample call look like?
 ```json
