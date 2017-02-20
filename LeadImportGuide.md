@@ -20,6 +20,7 @@ Brochure Request - "RequestType": {"SystemName": "BrochureRequest"}
 General	"RequestType": {"SystemName": "General"}
 
 ##What does a sample call look like?
+```json
 { 
   "People": [ 
     { 
@@ -44,6 +45,7 @@ General	"RequestType": {"SystemName": "General"}
     "RequestType": {"SystemName": " BrochureRequest"}, 
     "PropertyMarketingRoleIds": [12345,67890]
 }
+```
 
 ##Once you have developed the specification please:
 * Tell us when you are ready to test
