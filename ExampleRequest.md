@@ -1,4 +1,4 @@
-#Making a Request to the API
+# Making a Request to the API
 
 Here is an example request to the API, which creates a new group.
 
