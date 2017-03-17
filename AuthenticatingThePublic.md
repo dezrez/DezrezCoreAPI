@@ -1,4 +1,4 @@
-#Authenticating end users
+# Authenticating end users
 There are many use cases in which an estate agent will want to authenticate thier customers.  The primary example is where the website delivers additional features for vendors and applicants; the vendor or applicant will need to log in somehow, in order to prove they are who they say they are, and to show them thier related properties.
 
 Below is a brief overview to how a website/server process can authenticate using a third party user system, either managed direct locally, or managed by a third party such as facebook:
