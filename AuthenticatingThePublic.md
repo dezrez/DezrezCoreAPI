@@ -17,7 +17,7 @@ Endpoint locations
 
 Find users by email:
 
-<https://core-api-dev.dezrez.com/Help/Api/POST-api-identity-Add_personId>
+<https://core-api-dev.dezrez.com/Help/Api/GET-api-people-findbyemail_emailAddress>
 
 Find person by identity:
 
