@@ -1,8 +1,9 @@
 # How to register to use the Dezrez Core API
+In order to use the Dezrez core API, you need to first register with us so that you can have access codes sent to you.
+
 You can register easily at [developer.dezrez.com](http://developer.dezrez.com/api-request)
 
-In order to use the Dezrez core API, you need to first register with us so that you can have access codes sent to you.
-Send an email to developer.registration@dezrez.com requesting that your client be registered for access, and tell us a bit about it.
+Alternativley, send an email to developer.registration@dezrez.com requesting that your client be registered for access, and tell us a bit about it.
 
 ## Information we need for your registration
 
