@@ -13,7 +13,7 @@ Below is a brief overview to how a website/server process can authenticate using
 | SITE PICKS BEST MATCH                  | SITE CALLS FINDUSERSBYEMAIL \*using email provided by facebook |
 | SITE SETS IDENTITY                     | SITE PICKS BEST MATCH                                          |
 |                                        | SITE SETS USER IDENTITY                                        |
-| SITE NOW KNOWS WHO PERSON IS           | SITE NOW KNOWS WHO PERSON IS                                   |
+| SITE ASSERTS WHO PERSON IS           | SITE ASSERTS WHO PERSON IS                                   |
 
 Endpoint locations
 
