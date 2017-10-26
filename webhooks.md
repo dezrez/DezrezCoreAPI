@@ -5,10 +5,10 @@ The Dezrez Core API has built-in webhooks available for a wide range of events t
 
 Each of these events has a specific data contract associated with them, and API clients can register webhooks in order to be notified when these events happen.
 
-When an event happens, the specific event data contract is sent to the URL specified in the webhoook, in real time.
+When an event happens, the specific trigger data contract is sent to the URL specified in the webhoook, in real time.
 
-### Webhook Events
-A list of webhook events can be obtained by an authenticated API client by calling the endpoint *GET api/workflow/triggers*.
+### Webhook Triggers
+A list of webhook triggers can be obtained by an authenticated API client by calling the endpoint *GET api/workflow/triggers*.
 
 This will return a list of events that webhooks can be used with, along with the list of properties that the actual event data contract will contain.
 
@@ -63,6 +63,22 @@ Remember - The above json simply *describes* the JSON that will be sent to you. 
 {
   "PersonId": 1234,
   "RootEntityId": 1234,
-  
+  "AgencyId": 1234,
+  "BranchId": 1234
+  "Occurred":"2017-10-26T11:48:22.597Z"
+  "ChangedByPersonId": 1234
+  "ChangeType": "Updated"
 }
 ```
+
+### Creating a webhook
+Webhooks can be created by POSTing to **api/webhook/create/<TriggerSystemName>**, and the body of the post contains the callback URL.
+ 
+For example, to create a webhook that listens for changes to documents, calling back to [request bin](https://requestb.in) (really handy service for webhook testing!) here is the request to make (all headers including auth headers are ommited for brievity):
+ 
+ **POST https://api.dezrez.com/api/webhook/create/DocumentChangedSubscriptionNotificationDataContract**
+ ```javascript
+ {
+	"WebhookUrl":"https://requestb.in/p53z0up5"
+}
+ ```
