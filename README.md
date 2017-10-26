@@ -44,6 +44,9 @@ Please register by following this [guide](https://github.com/dezrez/DezrezCoreAP
 ### Guide explaining some basic concepts of our data model:
 [Dezrez Core Platform Domain Model](https://dezrezservices-my.sharepoint.com/personal/matthew_dendle_dezrez_com/_layouts/15/guestaccess.aspx?guestaccesstoken=wG26X6xJQpVALwVHGuzxMIvEDcpVUB%2fnOenxMxBrCxY%3d&docid=03c2d6f52b51747f4b7bd2562de2f2cec)
 
+### Webhook functionality
+The Dezrez Core API supports webhooks - a [brief guide](https://github.com/dezrez/DezrezCoreAPI/blob/master/webhooks.md) is available.
+
 ## Further Reading
 To cover more advanced topics, please read these articles and white papers.
 
