@@ -89,4 +89,8 @@ Webhooks can be deleted by a DELETE call to the location specified in the locati
 Example:
 **DELETE https://api.dezrez.com/api/webhook/1234**
 
-###
+### Trigger Hierarchy
+Triggers have a built-in hierarchy; for example, a PropertyMarketingRoleChanged trigger encompasses all triggers that more specifically describe a change to a property marketing role, I.e.  
+PropertyRoleDescriptionChangedSubscriptionNotificationDataContract is a sub trigger of PropertyRoleChangedSubscriptionNotification.
+
+This is helpful if you want to send everything to do with a property changing, but dont want to specify all the trigger names in the MessageTypes parameter.
