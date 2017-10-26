@@ -87,6 +87,6 @@ For example, to create a webhook that listens for changes to documents, calling 
 ### Deleting webhooks
 Webhooks can be deleted by a DELETE call to the location specified in the location header of the webhook create call above.
 Example:
-**DELETE https://api.dezrez.com/api/webhook/1234***
+**DELETE https://api.dezrez.com/api/webhook/1234**
 
 ###
