@@ -7,6 +7,10 @@ Each of these events has a specific data contract associated with them, and API 
 
 When an event happens, the specific trigger data contract is sent to the URL specified in the webhoook, in real time.
 
+** web hooks need to be explicilty enabled by dezrez staff before they can be used.  If this is not done, you will get an error message stating that they need to be enabled **
+
+Dezrez staff need to enable the webhooks 'external provider' in order for them to work.
+
 ### Webhook Triggers
 A list of webhook triggers can be obtained by an authenticated API client by calling the endpoint *GET api/workflow/triggers*.
 
