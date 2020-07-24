@@ -42,7 +42,7 @@ Please register by following this [guide](https://github.com/dezrez/DezrezCoreAP
 [Create a Group](https://github.com/dezrez/DezrezCoreAPI/blob/master/ExampleRequest.md) 
 
 ### Guide explaining some basic concepts of our data model:
-[Dezrez Core Platform Domain Model](https://dezrezservices.sharepoint.com/:w:/r/sites/Development24/_layouts/15/Doc.aspx?sourcedoc=%7BB46758BE-C38B-4D82-ADC4-6AD9B67CD856%7D&file=DezrezCorePlatformDomainModel.docx&action=default&mobileredirect=true)
+[Dezrez Core Platform Domain Model](https://dezrezservices.sharepoint.com/:w:/s/Development24/Eb5YZ7SLw4JNrcRq2bZ82FYBO6EtUY4AiZTSSCP-O_VMMg?e=VZ63YE)
 
 ### Webhook functionality
 The Dezrez Core API supports webhooks - a [brief guide](https://github.com/dezrez/DezrezCoreAPI/blob/master/webhooks.md) is available.
