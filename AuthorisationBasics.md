@@ -1,7 +1,7 @@
 # Authentication and Authorisation Basics
 
 One of the first problems that developers face is using OAuth2 with thier application.  We've got a guide to help you with this, available here:
-[Dezrez Core API Overview](https://dezrezservices-my.sharepoint.com/personal/matthew_dendle_dezrez_com/_layouts/15/guestaccess.aspx?guestaccesstoken=lwhdlgb3j7Y91GmaXpXjrX6cSn5iLZfzrPPtrReNinA%3d&docid=06036c1316bb14d5a8b4c4e6012d1889f)
+[Dezrez Core API Overview](https://dezrezservices-my.sharepoint.com/:w:/g/personal/matthew_dendle_dezrez_com/ETHBNmCxa1pNi0xOYBLRiJ8B5o_v__Wizn2m8RW6bdz2gA?e=G8cFtI)
 
 ## Once you've got your access token
 ### Protect it!
