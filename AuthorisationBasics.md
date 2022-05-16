@@ -1,7 +1,7 @@
 # Authentication and Authorisation Basics
 
-One of the first problems that developers face is using OAuth2 with thier application.  We've got a guide to help you with this, available here:
-[Dezrez Core API Overview](https://dezrezservices-my.sharepoint.com/:w:/g/personal/matthew_dendle_dezrez_com/ETHBNmCxa1pNi0xOYBLRiJ8B5o_v__Wizn2m8RW6bdz2gA?e=G8cFtI)
+One of the first problems that developers face is using OAuth2 with their application.  We've got a guide to help you with this, available here:
+[Dezrez Core API Overview](https://dezrezservices-my.sharepoint.com/:w:/g/personal/matthew_dendle_dezrez_com/ETHBNmCxa1pNi0xOYBLRiJ8B5o_v__Wizn2m8RW6bdz2gA?e=IUZyO6)
 
 ## Once you've got your access token
 ### Protect it!
@@ -21,7 +21,7 @@ There are many different types of application; some with no UI (back end server 
 
 Flows are an OAuth2 concept, they are descriptions of the interactions between a client, a user and an authorization server to request access tokens.
 
-Here are the OAuth 2 flows that we support, and who thier uses:
+Here are the OAuth 2 flows that we support, and who their uses:
 End users, with a UI "User OAuth2 Flows":
 * Code
 * Implicit
