@@ -160,7 +160,7 @@ The Client flow involves making one call to the token endpoint as below:
 
 POST https://dezrez-core-auth-uat.dezrez.com/Dezrez.Core.Api/oauth/token
 
-Authorization: Basic <Base64 of clientId:ClientSecret>
+Authorization: Basic \<Base64 of ClientId:ClientSecret\>
 
 Content-Type: application/json
 
