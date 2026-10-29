@@ -25,7 +25,7 @@ By far, the most issues that developers have with the API is adopting OAuth2, an
 ### Already familiar with OAuth2?
 If you are already familiar with OAuth2, here’s what you need to know to get started straight away:
 
-- To register your client with us, email <developer.registration@dezrez.com> with the following information:
+- To register your client with us, fill out the form here <https://dezrez.com/partner-with-dezrez> with the following information:
   - Company Name (if any)
   - Project Name and Description
     - This is just to give us an idea of what access scopes to grant you
