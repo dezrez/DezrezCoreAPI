@@ -104,7 +104,7 @@ Here are some terms that are important in the realm of OAuth2, Authorisation and
 Not just anyone can make requests on the API – the requesting party must be granted access as a **client application.**
 
 - Register with dezrez (auth.dezrez.com)
-  - Send an email to [developer.registration@dezrez.com](mailto:rezidev@dezrez.com) requesting that your client be registered for access.
+  - fill out the form here <https://dezrez.com/partner-with-dezrez> requesting that your client be registered for access.
   - Tell us what type of app it is
     - Web App?
     - Native mobile app?
